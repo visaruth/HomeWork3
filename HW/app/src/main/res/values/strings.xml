@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW</string>
+    <string name="upload">Upload File</string>
+    <string name="download">Download File</string>
+    <string name="btn_dowload">DOWNLOAD FILE</string>
+    <string name="cam_icon">take camera</string>
+    <string name="gal_icon">take gallery</string>
+    <string name="btn_upload">UPLOAD FILE</string>
+</resources>
